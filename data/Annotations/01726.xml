@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saveimage</folder>
+	<filename>01726.jpg</filename>
+	<path>I:\opencv_projects\cropRegion\saveimage\01726.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>530</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>206</ymin>
+			<xmax>406</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

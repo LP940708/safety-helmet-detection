@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new820</folder>
+	<filename>1446.jpg</filename>
+	<path>K:\workstation\data\安全帽\new820\1446.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>414</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>202</ymin>
+			<xmax>392</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

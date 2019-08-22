@@ -1,0 +1,5 @@
+train/
+*.record
+ckpt/
+models/
+trained_models/

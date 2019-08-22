@@ -1,0 +1,26 @@
+<annotation>
+	<folder>save</folder>
+	<filename>01050.jpg</filename>
+	<path>/home/wu/PycharmProjects/hat/save/01050.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1392</width>
+		<height>924</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1013</xmin>
+			<ymin>500</ymin>
+			<xmax>1247</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+</annotation>
